@@ -1,2 +1,4 @@
-# Starbuck-Landing-Page
-It is a Starbuck landing page using HTML, CSS, and JS
+# Starbucks_Landing_Page
+Starbucks-Website-Landing-Page
+
+https://imshaileshkr.github.io/Starbucks_Landing_Page/
